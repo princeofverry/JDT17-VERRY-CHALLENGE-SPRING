@@ -14,7 +14,6 @@ class StorePropertiesTest {
 
     @Test
     void shouldLoadYamlProperties() {
-
         assertEquals(
                 "Indivara Mini Store",
                 storeProperties.getName()

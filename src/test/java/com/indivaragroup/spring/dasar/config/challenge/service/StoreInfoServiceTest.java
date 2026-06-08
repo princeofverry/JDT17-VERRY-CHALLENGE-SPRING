@@ -14,7 +14,6 @@ class StoreInfoServiceTest {
 
     @Test
     void shouldReturnStoreInformation() {
-
         String result = storeInfoService.getStoreInfo();
 
         assertTrue(result.contains("Indivara Mini Store"));
