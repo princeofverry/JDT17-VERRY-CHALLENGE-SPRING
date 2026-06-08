@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring.dasar.config.properties
+#  messages:
+#    basename : language/messages
+#    encoding : UTF-8
+#    cache-duration: 3600
