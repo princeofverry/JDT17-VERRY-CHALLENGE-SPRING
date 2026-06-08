@@ -5,22 +5,22 @@ Verry Kurniawan
 
 ## Screenshot
 
-### 1. RESULT 1
+### RUNNING APPLICATION
 ![RESULT 1](assets/1.png)
 
-### 2. RESULT 2
+### TESTING PRODUCTION
 ![Challenge 2](assets/2.png)
 
-### 3. RESULT 3
+### SHOULD LOAD YML PROPERTIES
 ![RESULT 3](assets/3.png)
 
-### 4. RESULT 4
+### TESTING GREETING MESSAGE SERVICE
 ![RESULT 4](assets/4.png)
 
-### 5. RESULT 5
+### TESTING SHOULD READ BANNER
 ![RESULT 5](assets/5.png)
 
-### 6. RESULT 6
+### TESTING STORE SERVICE INFO
 ![RESULT 6](assets/6.png)
 
 ### Apa fungsi @ConfigurationProperties?
